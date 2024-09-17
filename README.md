@@ -1,4 +1,4 @@
-# configura-o-de-uma-instancia-de-banco-de-dados-no-azure
+#  Modelos de serviços em Nuvem oferecidos pelo Microsoft Azure
 Resumo da configuração configuração de uma instancia de banco de dados no microsoft azure
 
 Os modelos descritos abaixo oferecem diferentes níveis de controle, flexibilidade e gerenciamento, permitindo que as empresas escolham a solução que melhor se adapta às suas necessidades.
